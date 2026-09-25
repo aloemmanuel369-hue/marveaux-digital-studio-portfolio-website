@@ -1,0 +1,8 @@
+{
+  "name":"MARVEAUX Digital Studio",
+  "short_name":"MARVEAUX",
+  "start_url":"/",
+  "display":"standalone",
+  "background_color":"#0b0910",
+  "theme_color":"#963fe8"
+}
